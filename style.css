@@ -1,0 +1,27 @@
+/* Clarivid 法務ページ共通スタイル（シンプルな静的CSS。色はアプリのティールに合わせる） */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Segoe UI", sans-serif;
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 24px 20px 64px;
+  color: #333;
+  line-height: 1.8;
+  background: #f4f8f7;
+}
+h1 {
+  font-size: 1.5rem;
+  border-bottom: 2px solid #0E8F80;
+  padding-bottom: 8px;
+}
+h2 {
+  font-size: 1.1rem;
+  margin-top: 2em;
+}
+a {
+  color: #0B7468;
+}
+footer {
+  margin-top: 48px;
+  font-size: 0.85rem;
+  color: #888;
+}
